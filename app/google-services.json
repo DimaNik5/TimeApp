@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58996123667",
+    "project_id": "timeapp-1cf36",
+    "storage_bucket": "timeapp-1cf36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58996123667:android:898372e216d7550b51b7e6",
+        "android_client_info": {
+          "package_name": "com.example.time"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAncD0Wcd6Ur2DYcd_tXcQcYNGjVYaynQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
