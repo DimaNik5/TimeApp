@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ВремЯ</string>
+    <string name="input_log">Введите логин</string>
+    <string name="input">Войти</string>
+    <string name="login">Логин</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="nameCom">Название команды</string>
+    <string name="timeGen">Сгенерировать код</string>
+    <string name="timePrise">Введите цену в минутах</string>
+    <string name="code">Код</string>
+    <string name="gen">Сгенерировать</string>
+</resources>

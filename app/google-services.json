@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "365816235143",
+    "firebase_url": "https://apptime-d9d70-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "apptime-d9d70",
+    "storage_bucket": "apptime-d9d70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365816235143:android:e03b20e2babcf56cb82422",
+        "android_client_info": {
+          "package_name": "com.example.time"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT3mJf3NYDJGTCKZxyWl0ZtCx1sKYBMiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true" >
+    <item android:drawable="@drawable/from03" android:duration="80" />
+    <item android:drawable="@drawable/from91" android:duration="80" />
+    <item android:drawable="@drawable/from92" android:duration="80" />
+    <item android:drawable="@drawable/from93" android:duration="80" />
+</animation-list>
